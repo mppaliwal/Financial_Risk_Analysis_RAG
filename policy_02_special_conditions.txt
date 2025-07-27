@@ -1,0 +1,8 @@
+**Credit Policy Document: Special Lending Conditions (Version 1.1)**
+
+**Section 4: Exceptions and Overrides**
+4.1 Senior Underwriter Discretion: Exceptions to standard policy criteria (e.g., DTI, employment stability) may be granted by a senior underwriter for applicants presenting compelling mitigating factors. These factors include, but are not limited to, significant liquid assets, a history of timely loan repayments with other institutions, or proven entrepreneurial success despite recent employment changes. All exceptions must be thoroughly documented with a clear rationale.
+4.2 Collateral Requirements: For any secured loan, collateral must be appraised by a bank-approved third-party valuer. The Loan-to-Value (LTV) ratio must not exceed 80% of the appraised value.
+
+**Section 5: Review Process**
+5.1 High-Risk Review: Applications flagged for high DTI, recent employment changes, or high-risk loan purposes will undergo a mandatory secondary review by a dedicated risk analyst.

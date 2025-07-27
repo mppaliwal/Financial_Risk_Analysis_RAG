@@ -1,0 +1,11 @@
+﻿loan_id,income,age,loan_amount,credit_score,debt_to_income_ratio,employment_duration_years,purpose_of_loan_simplified,collateral_provided
+L001,75000,35,50000,720,42,2,Business Expansion - Landscaping Equipment,No
+L002,120000,48,150000,785,30,15,Debt Consolidation,No
+L003,45000,28,10000,610,25,0.5,Medical Emergency,No
+L004,90000,40,80000,700,35,10,Business Expansion - Online Retail,No
+L005,60000,25,25000,650,15,2,Car Purchase for Commute,No
+L006,150000,55,300000,750,48,20,Real Estate Investment,Yes
+L007,50000,30,70000,690,38,3,Home Renovation,No
+L008,180000,60,500000,810,32,25,Luxury Yacht Purchase,No
+L009,70000,32,15000,670,20,1,Consolidate Small Debts,No
+L010,80000,45,100000,710,40,5,Child's Education Fund,No
